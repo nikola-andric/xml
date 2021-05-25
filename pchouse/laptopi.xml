@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<catalog>
+        <book id="bk101">
+            <author>Acer Aspire 2</author>
+            <title>2019</title>
+            <genre>Laptop</genre>
+            <price>2690.00kn</price>
+            <publish_date>2020-10-01</publish_date>
+            <description>OS:Windows 10 Home Pro,
+            RAM:8GB RAM proširiva memorija,
+            Procesor:Ryzen 5 3500U 2.2 Ghz,4 Core 
+            Grafika:Radeon graphics,
+            SSD:500GB Kingston
+            </description>
+        </book>
+        <book id="bk102">
+            <author>Lenovo V15 15.6</author>
+            <title>2020</title>
+            <genre>Notebook</genre>
+            <price>3404.92kn</price>
+            <publish_date>2020-12-08</publish_date>
+            <description>OS:Windows Home S Mode, 
+            Procesor:AMD 3020e 1,2 GHz, Core 2, 
+            RAM:4GB, 14 HD,
+            SSD: 64 GB eMMC 5.1, 
+            Grafika:AMD Radeon, 802.11ac, BT 4.2, 1,4 kg, 
+            Boja:Crveno-Narančasta, TPM, 
+            Portovi:1xHDMI, 2xUSB 3.2
+            .</description>
+        </book>
+        <book id="bk103">
+            <author>Lenovo IdeaPad IP3 17.3</author>
+            <title>2020</title>
+            <genre>Laptop</genre>
+            <price>5545.75kn</price>
+            <publish_date>20200-08-07</publish_date>
+            <description> Procesor:AMD Ryzen 5 4600H (3.00 GHz - 4.00 GHz, 6 jezgri),
+        Zaslon: 15.6" FullHD IPS anti-glare (1920 x 1080),
+        Memorija: 16 GB (2 x 8 GB) DDR4 3200 MHz (2 utora, max 16 GB),
+        Pohrana podataka: 512 GB SSD (M.2 2242 PCIe NVMe),
+        Grafika:GTX 1650.
+        </description>
+        </book>
+            <book id="bk104">
+            <author>HP 255 G8</author>
+            <title>2019</title>
+            <genre>Laptop</genre>
+            <price>3420.00kn</price>
+            <publish_date>2020-08-01</publish_date>
+            <description>OS:Windows 9 Home Pro,
+            RAM:8GB DDR4 RAM proširiva memorija,
+            Procesor:Ryzen 3 3250U 3.4 Ghz,4 Core 
+            Grafika:AMD Radeon graphics,
+            SSD:265GB NVME Kingston
+            </description>
+        </book>
+
+            <book id="bk105">
+            <author>Notebook HP 255 G10</author>
+            <title>2020</title>
+            <genre>Notebook</genre>
+            <price>3450.00kn</price>
+            <publish_date>2020-11-01</publish_date>
+            <description>OS:Windows 10 Home Pro,
+            RAM:8GB DDR4 RAM proširiva memorija,
+            Procesor:Ryzen 3 3500U 3.2 Ghz,4 Core 
+            Grafika:Radeon graphics,
+            SSD:500GB NVMe Samsung.
+            </description>
+        </book>
+</catalog>

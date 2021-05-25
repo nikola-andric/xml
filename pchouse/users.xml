@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Korisnici>
+<korisnik>
+	<ime2>user1</ime2>
+	<lozinka2>12345</lozinka2>
+	<ime>Lebron</ime>
+    <prezime>James</prezime>
+	
+</korisnik>
+<korisnik>
+	<ime2>user2</ime2>
+	<lozinka2>12345</lozinka2>
+	<ime>Chris</ime>
+    <prezime>Paul</prezime>
+</korisnik>
+<korisnik>
+	<ime2>user3</ime2>
+	<lozinka2>12345</lozinka2>
+	<ime>Dario</ime>
+    <prezime>Saric</prezime>
+</korisnik>
+<korisnik>
+	<ime2>user4</ime2>
+	<lozinka2>12345</lozinka2>
+	<ime>Anthony</ime>
+    <prezime>Davis</prezime>
+</korisnik>
+<korisnik>
+	<ime2>user5</ime2>
+	<lozinka2>12345</lozinka2>
+	<ime>Mikal</ime>
+    <prezime>Bridges</prezime>
+</korisnik>
+<korisnik>
+	<ime2>user6</ime2>
+	<lozinka2>12345</lozinka2>
+	<ime>Jayson</ime>
+    <prezime>Tatum</prezime>
+</korisnik>
+<korisnik>
+	<ime2>user7</ime2>
+	<lozinka2>12345</lozinka2>
+	<ime>Devin</ime>
+    <prezime>Booker</prezime>
+</korisnik>
+</Korisnici>
